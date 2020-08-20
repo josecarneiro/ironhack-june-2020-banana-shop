@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Williams Bananas",
+    "weight": 300,
+    "origin": "Madeira",
+    "picture": "https://source.unsplash.com/fczCr7MdE7U/500x500",
+    "price": {
+      "amount": 700,
+      "currency": "EUR"
+    }
+  },
+  {
+    "name": "Apple Bananas",
+    "weight": 200,
+    "origin": "Miguel's House",
+    "picture": "https://source.unsplash.com/0v_1TPz1uXw/500x500",
+    "price": {
+      "amount": 1200,
+      "currency": "EUR"
+    }
+  },
+  {
+    "name": "Cavendish Bananas",
+    "weight": 400,
+    "origin": "Brazil",
+    "picture": "https://source.unsplash.com/sf_1ZDA1YFw/500x500",
+    "price": {
+      "amount": 2500,
+      "currency": "EUR"
+    }
+  },
+  {
+    "name": "Pisang Raja",
+    "weight": 350,
+    "origin": "Indonesia",
+    "picture": "https://source.unsplash.com/Xpl27cG0x0M/500x500",
+    "price": {
+      "amount": 300,
+      "currency": "EUR"
+    }
+  },
+  {
+    "name": "Red Bananas",
+    "weight": 150,
+    "origin": "Equador",
+    "picture": "https://source.unsplash.com/Kl3467edwsE/500x500",
+    "price": {
+      "amount": 1000,
+      "currency": "EUR"
+    }
+  },
+  {
+    "name": "Cooking Bananas",
+    "weight": 500,
+    "origin": "Spain",
+    "picture": "https://source.unsplash.com/fS_iWTE3Umk/500x500",
+    "price": {
+      "amount": 900,
+      "currency": "EUR"
+    }
+  }
+]
